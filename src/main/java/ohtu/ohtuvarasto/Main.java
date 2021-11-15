@@ -2,6 +2,7 @@ package ohtu.ohtuvarasto;
 
 public class Main {
 
+    @SuppressWarnings("checkstyle:methodlength")
     public static void main(String[] args) {
 
         Varasto mehua = new Varasto(100.0);
